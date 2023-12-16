@@ -1,1 +1,5 @@
-<h1 style="background-color:red; color: yellow">PLEASE RUN THE EXE FILE IN THE REALEASE FOLDER</h1>
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=PLEASE+🛐;RUN+EXE+FILE+IN+RELEASE;&center=true&size=30">
+  </h1>
+</div>
