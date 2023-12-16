@@ -1,0 +1,6 @@
+C:\Users\Bao Long\Downloads\tetris-cpp-master (1)\tetris-cpp-master\x64\Debug\tetris-cpp.vcxproj.CopyComplete
+C:\Users\Bao Long\Downloads\tetris-cpp-master (1)\tetris-cpp-master\x64\Debug\tetris-cpp.exe
+C:\Users\Bao Long\Downloads\tetris-cpp-master (1)\tetris-cpp-master\x64\Debug\raylib.dll
+C:\Users\quanh\Downloads\FinalTetrisGame-main\FinalTetrisGame-main\22127032_22127078_22127243_22127342\Source\tetris-cpp-master\x64\Debug\tetris-cpp.vcxproj.CopyComplete
+C:\Users\quanh\Downloads\FinalTetrisGame-main\FinalTetrisGame-main\22127032_22127078_22127243_22127342\Source\tetris-cpp-master\x64\Debug\tetris-cpp.exe
+C:\Users\quanh\Downloads\FinalTetrisGame-main\FinalTetrisGame-main\22127032_22127078_22127243_22127342\Source\tetris-cpp-master\x64\Debug\raylib.dll
